@@ -1,6 +1,182 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "updated": "2026-04-22",
-  "models": [],
+  "models": [
+    {
+      "name": "Bolinha_Rosa_int8",
+      "format": "openvino",
+      "author": "@CougarP",
+      "game": "Aim Trainer",
+      "description": "OpenVINO IR model",
+      "uploaded": "2026-04-22",
+      "files": [
+        {
+          "path": "Bolinha_Rosa_int8.xml",
+          "size": 773449,
+          "sha256": "794526a4a6571359ef278acb81683701ab23d0c49165681d5dcb8ccb6a40f824"
+        },
+        {
+          "path": "Bolinha_Rosa_int8.bin",
+          "size": 2414232,
+          "sha256": "dbfdbca1553b881d3f334846be0b841a24ccd0a5c03c84307d54ee6c27daec2b"
+        }
+      ]
+    },
+    {
+      "name": "Bolinha_Rosa_ov",
+      "format": "openvino",
+      "author": "@CougarP",
+      "game": "Aim Trainer",
+      "description": "OpenVINO IR model",
+      "uploaded": "2026-04-22",
+      "files": [
+        {
+          "path": "Bolinha_Rosa_ov.xml",
+          "size": 368858,
+          "sha256": "c333dfb0c771e048788e4d4f2de8b31b8ea28342eb1a33d27787679822e8f513"
+        },
+        {
+          "path": "Bolinha_Rosa_ov.bin",
+          "size": 4763024,
+          "sha256": "f1ff7fba3ea7c6f576233a26d92e8d05cd5c3c1bcfb93a1747e809df2fc27ac1"
+        }
+      ]
+    },
+    {
+      "name": "Bolinha_Rosa_v2_int8",
+      "format": "openvino",
+      "author": "@CougarP",
+      "game": "Aim Trainer",
+      "description": "OpenVINO IR model",
+      "uploaded": "2026-04-22",
+      "files": [
+        {
+          "path": "Bolinha_Rosa_v2_int8.xml",
+          "size": 773373,
+          "sha256": "f7102adaee488ebe79a9294a481d65d731a6496a066d58fe4bb6eef2fd451937"
+        },
+        {
+          "path": "Bolinha_Rosa_v2_int8.bin",
+          "size": 2414208,
+          "sha256": "90aed1e375cd17bd2f5942e92c291d598e664d2f3c302da29f1b83c96e459add"
+        }
+      ]
+    },
+    {
+      "name": "Bolinha_Rosa_v2_ov",
+      "format": "openvino",
+      "author": "@CougarP",
+      "game": "Aim Trainer",
+      "description": "OpenVINO IR model",
+      "uploaded": "2026-04-22",
+      "files": [
+        {
+          "path": "Bolinha_Rosa_v2_ov.xml",
+          "size": 368878,
+          "sha256": "34e10aa8e9ba48927cdab6087efc243b373149b05bb1cb855fa0bf0c0b70ec62"
+        },
+        {
+          "path": "Bolinha_Rosa_v2_ov.bin",
+          "size": 4763024,
+          "sha256": "1581699f80da4a747681947188d0a4323a0ee82d0d2d5ed3e100a4fde55e4912"
+        }
+      ]
+    },
+    {
+      "name": "Warzone_640_ov",
+      "format": "openvino",
+      "author": "@CougarP",
+      "game": "Warzone",
+      "description": "OpenVINO IR model",
+      "uploaded": "2026-04-22",
+      "files": [
+        {
+          "path": "Warzone_640_ov.xml",
+          "size": 225331,
+          "sha256": "5142a14e919e970b3c5709dc4ddfcca3061eb24637b6c342d868cc1c3c35bed6"
+        },
+        {
+          "path": "Warzone_640_ov.bin",
+          "size": 44604960,
+          "sha256": "bd15fd900436ede5b175d60be28a033ef64d2ed49ca70d114efac85a456c07f8"
+        }
+      ]
+    },
+    {
+      "name": "Bolinha_Rosa_v2",
+      "format": "onnx",
+      "author": "@CougarP",
+      "game": "Aim Trainer",
+      "description": "ONNX model",
+      "uploaded": "2026-04-22",
+      "files": [
+        {
+          "path": "Bolinha_Rosa_v2.onnx",
+          "size": 4908656,
+          "sha256": "34769457105a77469ca00b00b1a9a7355c8f952f28ec133d1d07b5b83b82c626"
+        }
+      ]
+    },
+    {
+      "name": "Bolinha_Rosa",
+      "format": "onnx",
+      "author": "@CougarP",
+      "game": "Aim Trainer",
+      "description": "ONNX model",
+      "uploaded": "2026-04-22",
+      "files": [
+        {
+          "path": "Bolinha_Rosa.onnx",
+          "size": 4908639,
+          "sha256": "e8cdfdda56c3b060ef08b724ee6592895c48b650228ce71e23f2bb5c24680044"
+        }
+      ]
+    },
+    {
+      "name": "Warzone_320",
+      "format": "onnx",
+      "author": "@CougarP",
+      "game": "Warzone",
+      "description": "ONNX model",
+      "uploaded": "2026-04-22",
+      "files": [
+        {
+          "path": "Warzone_320.onnx",
+          "size": 10457319,
+          "sha256": "e723b93630fcee5eff9232268d7ba1c2e804f8e5ab2262b8cc01994ae087cf5b"
+        }
+      ]
+    },
+    {
+      "name": "Warzone_640",
+      "format": "onnx",
+      "author": "@CougarP",
+      "game": "Warzone",
+      "description": "ONNX model",
+      "uploaded": "2026-04-22",
+      "files": [
+        {
+          "path": "Warzone_640.onnx",
+          "size": 44731704,
+          "sha256": "b6a4fd5d996caf0dc391e3e876a15c47a951eaf736806622c9b8c7602c3512ac"
+        }
+      ]
+    },
+    {
+      "name": "Warzone_smal",
+      "format": "onnx",
+      "author": "@CougarP",
+      "game": "Warzone",
+      "description": "ONNX model",
+      "uploaded": "2026-04-22",
+      "files": [
+        {
+          "path": "Warzone_smal.onnx",
+          "size": 10430429,
+          "sha256": "9ba9a3174444fd33ed5ee1f1f8c926ad441632943030a51c46e900e2736e55fb"
+        }
+      ]
+    }
+  ],
   "configs": []
 }
