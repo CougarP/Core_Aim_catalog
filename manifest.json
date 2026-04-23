@@ -1,4 +1,3 @@
-
 {
   "schemaVersion": 2,
   "updated": "2026-04-22",
@@ -63,21 +62,6 @@
         }
       ]
     },
-    {
-  "name": "yolov12",
-  "format": "onnx",
-  "author": "by_rj",
-  "game": "all_games",
-  "description": "yolov12_teste",
-  "uploaded": "2026-04-23",
-  "files": [
-    {
-      "path": "Yolov12_Allgames.onnx",
-      "size": 37247815,
-      "sha256": "63e4b2b8d1e6257dadf986be2465a45021960ef1d27f557fb171d7fe63777b56"
-    }
-  ]
-},
     {
       "name": "Bolinha_Rosa_v2_ov",
       "format": "openvino",
