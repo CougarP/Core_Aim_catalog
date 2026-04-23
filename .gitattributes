@@ -1,0 +1,7 @@
+# Treat all model + config files as binary so Git never normalises line endings.
+# This is critical: ANY CRLF/LF rewrite on push changes the SHA256 and breaks
+# integrity verification on the client side.
+*.xml   binary
+*.bin   binary
+*.onnx  binary
+*.json  binary
