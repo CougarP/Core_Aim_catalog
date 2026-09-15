@@ -191,6 +191,21 @@
           "sha256": "9ba9a3174444fd33ed5ee1f1f8c926ad441632943030a51c46e900e2736e55fb"
         }
       ]
+    },
+    {
+      "name": "BO7_Barra_pink",
+      "format": "onnx",
+      "author": "@CougarP",
+      "game": "Call of Duty: Black Ops 7",
+      "description": "•Deteção barra acima do player\n•Usar a cor pink a última da tabela do BO7\n•Usar como peso secundário\n•Confiança manter em 50%\n•Ofset formato pixel\n•Manter ofset X em 0\n•Manter ofset Y entre -45 -50\n•selecionar Take priority desabilitar outros modelos ao detectar.",
+      "uploaded": "2026-09-15",
+      "files": [
+        {
+          "path": "BO7_Barra_pink.onnx",
+          "size": 81593365,
+          "sha256": "47d79c0ece78a8cdc90e8c9216a5217d1792d0dc91e068cdbb890337e862937c"
+        }
+      ]
     }
   ],
   "configs": []
